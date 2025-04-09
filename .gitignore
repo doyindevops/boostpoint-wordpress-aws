@@ -1,0 +1,31 @@
+# Terraform state files
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Terraform plan files
+*.tfplan
+
+# Sensitive override values (optional)
+terraform.tfvars
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+
+# Log & temp files
+*.log
+*.bak
+*.tmp
+*.swp
+*~
+
+# Python cache (in case you script anything)
+__pycache__/
+*.py[cod]
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini

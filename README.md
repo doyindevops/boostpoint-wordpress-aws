@@ -6,7 +6,7 @@
 > **IaC Tool:** Terraform  
 > **Cloud Provider:** AWS  
 > **Hosting:** WordPress  
-> **YouTube Walkthrough:** _[Coming Soon – Full Silent Deployment Series](https://www.youtube.com)_ 🎥
+> **YouTube Walkthrough:** **[Published to YouTube](https://www.youtube.com/playlist?list=PL7KUROV69G9ExH-nnYIJxtJTZrLHK8f_o)**.🎥
 
 ---
 
@@ -14,7 +14,7 @@
 
 This project provisions a **highly available, fully automated WordPress infrastructure** on AWS using **Terraform** with a modular and professional architecture. All infrastructure was deployed in phases with structured videos and documentation, following DevOps best practices.
 
-The entire process has been recorded (voice-free), and will be published as a **professional walkthrough series on YouTube** to visually demonstrate competence, structure, debugging, and end-to-end deployment workflow.
+The entire process has been recorded (voice-free exept the first video where I forgot to mute my mic ❌❌❌(I apologize ahead for that)), and will be published as a **professional walkthrough series on YouTube** to visually demonstrate competence, structure, debugging, and end-to-end deployment workflow.
 
 > 💡 This repository is built for technical recruiters, DevOps engineers, and hiring managers looking to see real-world cloud automation capability.
 
@@ -63,7 +63,7 @@ This infrastructure was broken down into 6 clean Terraform modules:
 
 ## 🎞️ Videos
 
-> All 11 deployment steps are recorded and will be **published to YouTube**.
+> 5/11 deployment steps recorded, will be **[Published to YouTube](https://www.youtube.com/playlist?list=PL7KUROV69G9ExH-nnYIJxtJTZrLHK8f_o)**.
 
 - EC2 Setup + Provisioning  
 - Apache + WordPress Installation  
@@ -124,3 +124,28 @@ Cloud Infrastructure | DevOps | Automation Enthusiast
 🔗 YouTube Series (coming soon)
 📧 Available for remote/cloud DevOps roles
 
+
+
+
+## 📺 Video Demonstration
+
+> 🎥 A curated YouTube playlist is available to showcase the most critical infrastructure steps.
+> The full infrastructure was provisioned in cost-saving **phases**, showing professional discipline and control.
+> 📎   **[Published to YouTube](https://www.youtube.com/playlist?list=PL7KUROV69G9ExH-nnYIJxtJTZrLHK8f_o)**.
+---
+
+### ▶️ Curated Playlist
+
+1. **Deploying WordPress on AWS EC2 with Apache**  
+   _Automation via Terraform & user_data.sh_
+
+2. **Deploying Secure MySQL RDS for WordPress**  
+   _Private subnet provisioning + SG security_
+
+3. **Final WordPress Output (EC2 + RDS)**  
+   _Live infrastructure verification_
+
+4. *(Optional)* **Teardown using Terraform Destroy**  
+   _Highlights AWS cost consciousness_
+
+---

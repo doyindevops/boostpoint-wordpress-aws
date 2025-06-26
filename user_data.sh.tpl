@@ -32,3 +32,7 @@ EOF
 
 chown -R apache:apache /var/www/html
 chmod -R 755 /var/www/html
+
+# Author: Doyin Ekong (@doyindevops)
+# Repo: https://github.com/doyindevops/logistics-tracking-platform
+

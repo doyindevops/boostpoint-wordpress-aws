@@ -1,5 +1,17 @@
 # 🚀 BoostPoint WordPress Infrastructure – AWS + Terraform
 
+
+[![Maintainer](https://img.shields.io/badge/maintainer-doyindevops-blue)](https://github.com/doyindevops)
+[![YouTube](https://img.shields.io/badge/YouTube-Project_Demo-red?logo=youtube)](https://www.youtube.com/@doyinekong/playlists)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> **Created and maintained by [Adedoyin Ekong](https://github.com/doyindevops) – Cloud & DevOps Engineer**
+
+---
+
+**🚩 If you fork, please retain this attribution section to credit the original author.**
+
+
 > **Provisioned by:** Adedoyin Ekong  
 > **Date:** April 8, 2025  
 > **Fake DNS:** `wp.boostpointmedia.com`  
